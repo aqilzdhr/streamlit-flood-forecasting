@@ -9,7 +9,7 @@ menu_title=None,
 )
 
 if selected == "Home":
-  st.title(f"you have select {selected}")
+  st.title(f"you have selected {selected}")
   if selected == "Prediction":
   st.title(f"you have selected {selected}")
   if selected == "Video":
