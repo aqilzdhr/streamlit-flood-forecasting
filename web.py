@@ -11,4 +11,11 @@ menu_title=none,
   orientation="horizontal"
 )
 
-
+if selected == "Home":
+  st.title(f"{selected}")
+  if selected == "Prediction":
+  st.title(f"{selected}")
+  if selected == "Video":
+  st.title(f"{selected}")
+  if selected == "About Us":
+  st.title(f"{selected}")
