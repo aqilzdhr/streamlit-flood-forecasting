@@ -12,10 +12,10 @@ menu_title=none,
 )
 
 if selected == "Home":
-  st.title(f"{selected}")
+  st.title(f"you have select {selected}")
   if selected == "Prediction":
-  st.title(f"{selected}")
+  st.title(f"you have selected {selected}")
   if selected == "Video":
-  st.title(f"{selected}")
+  st.title(f"you have selected {selected}")
   if selected == "About Us":
-  st.title(f"{selected}")
+  st.title(f"you have selected {selected}")
