@@ -3,11 +3,8 @@ from streamlit_option_menu import option_menu
 
 # horizontal menu
 selected = option_menu(
-menu_title=none,
-  option=["Home", "Prediction", "Video" "ABout Us"],
-  icons=["house", "brain", "book", "man"],
-  menu_icon="cast",
-  default_index=0,
+menu_title=None,
+  options=["Home", "Prediction", "Video" "ABout Us"],
   orientation="horizontal"
 )
 
