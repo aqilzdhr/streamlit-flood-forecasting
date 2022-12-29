@@ -9,7 +9,7 @@ st.title("Flood Forecasting")
 # horizontal menu
 selected = option_menu(
 menu_title=none,
-  option=["Home", "Prediction",, "Video" "ABout Us"],
+  option=["Home", "Prediction", "Video" "ABout Us"],
   icons=["house", "brain", "book", "man"]
   menu_icon="cast",
   default_index=0,
